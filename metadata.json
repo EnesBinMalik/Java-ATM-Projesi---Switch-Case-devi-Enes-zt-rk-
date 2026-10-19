@@ -1,0 +1,6 @@
+{
+  "name": "Java ATM Projesi - Switch-Case Ödevi (Enes Öztürk)",
+  "description": "Java döngüler ve Switch-Case yapısı ile interaktif ATM simülatörü, Java kaynak kodu ve ödev çözümü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
