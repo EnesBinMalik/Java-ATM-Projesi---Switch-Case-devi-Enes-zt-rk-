@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Java ATM Projesi — Switch Case Ödevi Enes Öztürk">
+<style>.t{font-family:'Segoe UI',system-ui,sans-serif}.ttl{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:-1px}.m{font-family:'Consolas',monospace}.s{font-family:Georgia,serif}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:3px}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B12"/><stop offset="0.55" stop-color="#0A1018"/><stop offset="1" stop-color="#0C1420"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#84CC16"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<radialGradient id="gl" cx="0.8" cy="0.2" r="0.7"><stop offset="0" stop-color="#84CC16" stop-opacity="0.16"/><stop offset="1" stop-color="#84CC16" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<rect width="1280" height="640" fill="url(#gl)"/>
+<rect x="720" y="522" width="12" height="38" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="746" y="484" width="12" height="76" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="772" y="465" width="12" height="95" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="798" y="456" width="12" height="104" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="824" y="451" width="12" height="109" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="850" y="494" width="12" height="66" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="876" y="470" width="12" height="90" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="902" y="503" width="12" height="57" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="928" y="475" width="12" height="85" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="954" y="461" width="12" height="99" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="980" y="454" width="12" height="106" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="1006" y="495" width="12" height="65" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="1032" y="471" width="12" height="89" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="1058" y="459" width="12" height="101" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="1084" y="498" width="12" height="62" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="1110" y="517" width="12" height="43" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="1136" y="527" width="12" height="33" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="1162" y="487" width="12" height="73" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="1188" y="512" width="12" height="48" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="1214" y="479" width="12" height="81" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="1240" y="508" width="12" height="52" rx="6" fill="#22D3EE" fill-opacity="0.10"/>
+<rect x="1266" y="477" width="12" height="83" rx="6" fill="#84CC16" fill-opacity="0.10"/>
+<rect x="0" y="0" width="1280" height="4" fill="url(#ac)"/>
+<text x="56" y="58" class="cap" font-size="11" fill="#22D3EE">JAVA</text>
+<text x="1224" y="58" text-anchor="end" class="m" font-size="11" fill="#48566B">34 · JAVA</text>
+<line x1="56" y1="76" x2="1224" y2="76" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="56" y="186" class="ttl" font-size="62" fill="#F2F6FB">Java ATM Projesi — Switch Case Ödevi Enes Öztürk</text>
+<rect x="58" y="212" width="76" height="3" rx="1.5" fill="url(#ac)"/>
+<text x="58" y="252" class="t" font-size="17" fill="#94A6BE">Java ATM Projesi - Switch-Case Ödevi (Enes Öztürk) — Enes Öztürk imzalı p…</text>
+<circle cx="64" cy="314" r="3.5" fill="#84CC16" fill-opacity="0.85"/>
+<text x="80" y="320" class="t" font-size="14" fill="#AFC0D6">Java ATM Projesi - Switch-Case Ödevi (Enes Öztürk) — Enes Özt…</text>
+<circle cx="64" cy="354" r="3.5" fill="#84CC16" fill-opacity="0.85"/>
+<text x="80" y="360" class="t" font-size="14" fill="#AFC0D6">Kaynak kodu ve yapı</text>
+<circle cx="64" cy="394" r="3.5" fill="#84CC16" fill-opacity="0.85"/>
+<text x="80" y="400" class="t" font-size="14" fill="#AFC0D6">Kurulum adımları</text>
+<rect x="696" y="300" width="160" height="96" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E2C3F"/>
+<rect x="696" y="300" width="160" height="3" rx="1.5" fill="#84CC16" fill-opacity="0.7"/>
+<text x="714" y="342" class="t" font-size="26" font-weight="700" fill="#84CC16">3</text>
+<text x="714" y="368" class="m" font-size="10.5" fill="#7E8FA8">bölüm</text>
+<rect x="872" y="300" width="160" height="96" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E2C3F"/>
+<rect x="872" y="300" width="160" height="3" rx="1.5" fill="#22D3EE" fill-opacity="0.7"/>
+<text x="890" y="342" class="t" font-size="26" font-weight="700" fill="#22D3EE">TypeScript</text>
+<text x="890" y="368" class="m" font-size="10.5" fill="#7E8FA8">dil</text>
+<rect x="1048" y="300" width="160" height="96" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E2C3F"/>
+<rect x="1048" y="300" width="160" height="3" rx="1.5" fill="#22D3EE" fill-opacity="0.7"/>
+<text x="1066" y="342" class="t" font-size="26" font-weight="700" fill="#22D3EE">1</text>
+<text x="1066" y="368" class="m" font-size="10.5" fill="#7E8FA8">depo</text>
+<line x1="56" y1="544" x2="1224" y2="544" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="56" y="582" class="t" font-size="18" font-weight="600" fill="#E9F0FB">Enes Öztürk</text>
+<text x="56" y="606" class="m" font-size="11.5" fill="#5A6B88">github.com/EnesBinMalik</text>
+<text x="1224" y="582" text-anchor="end" class="cap" font-size="10.5" fill="#22D3EE">EL EMEĞİ · İMZALI</text>
+<text x="1224" y="606" text-anchor="end" class="m" font-size="11" fill="#3F4C60">tasarım &amp; geliştirme · Enes Öztürk</text>
+</svg>
